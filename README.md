@@ -1,1 +1,1 @@
-# Matem-tica-para-Controle---COE745
+# Matematica-para-Controle---COE745
